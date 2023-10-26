@@ -8,8 +8,8 @@ It's important to note that this project can be tailored to forecast house price
 Project Steps
 
 Data Loading
-Data Cleaning and Integration: 
-Initial Machine Learning Model: 
+Data Cleaning and Integration 
+Initial Machine Learning Model 
 Model Accuracy Improvement 
 Diagnostics and Improvement
 
