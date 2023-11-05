@@ -1,19 +1,23 @@
-# House_Prices-Explained-step-by-step-
+# House_PricesPredictionRealEstateBerkay
+## Problem Statement
+The objective of this project is to develop a predictive model for future house prices by leveraging data from the Federal Reserve and house price data from Zillow. The primary challenge is to accurately forecast whether house prices are likely to increase or decrease in the future. This predictive model is essential for homeowners, real estate professionals, and investors who need reliable insights into the housing market.
 
-Project Overview:
-In this project, our goal is to make predictions about future house prices. To achieve this, we will utilize data from the Federal Reserve and house price data from Zillow. Our approach involves combining and merging these datasets. We will then proceed to train a random forest model. This model will help us determine whether house prices are likely to increase or decrease in the future. We will evaluate its performance using backtesting, and if necessary, enhance the model by introducing new predictive factors.
+## Business Impacts
+* This project can align with and contribute to the achievement of an organization's long-term strategic objectives.
+*
+*
+*
+*
+*
+
+## Project Steps
+* Data Loading - Gather and integrate data from multiple sources, including the Federal Reserve and Zillow, to create a comprehensive dataset that encompasses relevant features and historical house price trends.
+* Data Cleaning and Integration - Prepare and clean the data to ensure accuracy and consistency, merging datasets where necessary to create a unified and reliable source of information.
+* Initial Machine Learning Model - Train an initial random forest machine learning model to predict future house price movements. This model serves as the foundation for forecasting.
+* Model Accuracy Improvement - Continuously refine the model to enhance its predictive accuracy. This includes optimizing model parameters and feature selection to achieve reliable results.
+* Diagnostics and Improvement - Evaluate the model's performance using backtesting and other diagnostic methods. If necessary, introduce new predictive factors or features to improve the model's ability to forecast house price trends accurately.
 
 
-
-Project Steps
-
-Data Loading
-Data Cleaning and Integration 
-Initial Machine Learning Model 
-Model Accuracy Improvement 
-Diagnostics and Improvement
-
-By following these steps, we aim to create an effective model for predicting future house prices, with an ongoing focus on refining and enhancing its performance.
 
 
 
